@@ -1,4 +1,4 @@
-# Simple Bill Calculator
+ Simple Bill Calculator
 
 price = float(input("Enter the price of one item: "))
 quantity = int(input("Enter the quantity you want: "))
